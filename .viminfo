@@ -1,0 +1,207 @@
+# 이 viminfo 파일은 빔이 만든 것입니다 Vim 8.1.
+# 조심만 한다면 고칠 수도 있습니다!
+
+# Viminfo version
+|1,4
+
+# 이 파일이 저장되었을 때의 'encoding'의 값
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# 명령 행 히스토리 (새것부터 오래된 것 순):
+:q
+|2,0,1546906452,,"q"
+:w
+|2,0,1546906427,,"w"
+
+# 찾을 문자열 히스토리 (새것부터 오래된 것 순):
+
+# 표현 히스토리 (새것부터 오래된 것 순):
+
+# 입력 행 히스토리 (새것부터 오래된 것 순):
+
+# 디버그 행 히스토리 (새것부터 오래된 것 순):
+
+# 레지스터:
+""-	CHAR	0
+	역
+|3,1,36,0,1,0,1546581269,"역"
+
+# 파일 마크:
+'0  1  27  ~/.bashrc
+|4,48,1,27,1546906452,"~/.bashrc"
+'1  1  0  ~/.bashr
+|4,49,1,0,1546906444,"~/.bashr"
+'2  1  27  ~/.bashrc
+|4,50,1,27,1546906430,"~/.bashrc"
+'3  2  25  ~/Desktop/안뇽/내이름은.txt
+|4,51,2,25,1546581303,"~/Desktop/안뇽/내이름은.txt"
+'4  3  22  ~/Desktop/안뇽/내이름은.txt
+|4,52,3,22,1546581192,"~/Desktop/안뇽/내이름은.txt"
+'5  1  0  ~/TIL/.git/COMMIT_EDITMSG
+|4,53,1,0,1545179999,"~/TIL/.git/COMMIT_EDITMSG"
+
+# 점프목록 (새것이 먼저):
+-'  1  27  ~/.bashrc
+|4,39,1,27,1546906452,"~/.bashrc"
+-'  1  0  ~/.bashr
+|4,39,1,0,1546906444,"~/.bashr"
+-'  1  0  ~/.bashr
+|4,39,1,0,1546906444,"~/.bashr"
+-'  1  27  ~/.bashrc
+|4,39,1,27,1546906430,"~/.bashrc"
+-'  1  27  ~/.bashrc
+|4,39,1,27,1546906430,"~/.bashrc"
+-'  2  25  ~/Desktop/안뇽/내이름은.txt
+|4,39,2,25,1546581303,"~/Desktop/안뇽/내이름은.txt"
+-'  2  25  ~/Desktop/안뇽/내이름은.txt
+|4,39,2,25,1546581303,"~/Desktop/안뇽/내이름은.txt"
+-'  2  25  ~/Desktop/안뇽/내이름은.txt
+|4,39,2,25,1546581303,"~/Desktop/안뇽/내이름은.txt"
+-'  2  25  ~/Desktop/안뇽/내이름은.txt
+|4,39,2,25,1546581303,"~/Desktop/안뇽/내이름은.txt"
+-'  2  25  ~/Desktop/안뇽/내이름은.txt
+|4,39,2,25,1546581303,"~/Desktop/안뇽/내이름은.txt"
+-'  2  25  ~/Desktop/안뇽/내이름은.txt
+|4,39,2,25,1546581303,"~/Desktop/안뇽/내이름은.txt"
+-'  2  25  ~/Desktop/안뇽/내이름은.txt
+|4,39,2,25,1546581303,"~/Desktop/안뇽/내이름은.txt"
+-'  2  25  ~/Desktop/안뇽/내이름은.txt
+|4,39,2,25,1546581303,"~/Desktop/안뇽/내이름은.txt"
+-'  3  22  ~/Desktop/안뇽/내이름은.txt
+|4,39,3,22,1546581192,"~/Desktop/안뇽/내이름은.txt"
+-'  3  22  ~/Desktop/안뇽/내이름은.txt
+|4,39,3,22,1546581192,"~/Desktop/안뇽/내이름은.txt"
+-'  3  22  ~/Desktop/안뇽/내이름은.txt
+|4,39,3,22,1546581192,"~/Desktop/안뇽/내이름은.txt"
+-'  3  22  ~/Desktop/안뇽/내이름은.txt
+|4,39,3,22,1546581192,"~/Desktop/안뇽/내이름은.txt"
+-'  3  22  ~/Desktop/안뇽/내이름은.txt
+|4,39,3,22,1546581192,"~/Desktop/안뇽/내이름은.txt"
+-'  3  22  ~/Desktop/안뇽/내이름은.txt
+|4,39,3,22,1546581192,"~/Desktop/안뇽/내이름은.txt"
+-'  3  22  ~/Desktop/안뇽/내이름은.txt
+|4,39,3,22,1546581192,"~/Desktop/안뇽/내이름은.txt"
+-'  3  22  ~/Desktop/안뇽/내이름은.txt
+|4,39,3,22,1546581192,"~/Desktop/안뇽/내이름은.txt"
+-'  1  0  ~/Desktop/안뇽/내이름은.txt
+|4,39,1,0,1546581076,"~/Desktop/안뇽/내이름은.txt"
+-'  1  0  ~/Desktop/안뇽/내이름은.txt
+|4,39,1,0,1546581076,"~/Desktop/안뇽/내이름은.txt"
+-'  1  0  ~/Desktop/안뇽/내이름은.txt
+|4,39,1,0,1546581076,"~/Desktop/안뇽/내이름은.txt"
+-'  1  0  ~/Desktop/안뇽/내이름은.txt
+|4,39,1,0,1546581076,"~/Desktop/안뇽/내이름은.txt"
+-'  1  0  ~/Desktop/안뇽/내이름은.txt
+|4,39,1,0,1546581076,"~/Desktop/안뇽/내이름은.txt"
+-'  1  0  ~/Desktop/안뇽/내이름은.txt
+|4,39,1,0,1546581076,"~/Desktop/안뇽/내이름은.txt"
+-'  1  0  ~/Desktop/안뇽/내이름은.txt
+|4,39,1,0,1546581076,"~/Desktop/안뇽/내이름은.txt"
+-'  1  0  ~/Desktop/안뇽/내이름은.txt
+|4,39,1,0,1546581076,"~/Desktop/안뇽/내이름은.txt"
+-'  1  0  ~/Desktop/안뇽/내이름은.txt
+|4,39,1,0,1546581076,"~/Desktop/안뇽/내이름은.txt"
+-'  1  0  ~/Desktop/안뇽/내이름은.txt
+|4,39,1,0,1546581076,"~/Desktop/안뇽/내이름은.txt"
+-'  1  0  ~/Desktop/안뇽/내이름은.txt
+|4,39,1,0,1546581076,"~/Desktop/안뇽/내이름은.txt"
+-'  1  0  ~/Desktop/안뇽/내이름은.txt
+|4,39,1,0,1546581076,"~/Desktop/안뇽/내이름은.txt"
+-'  1  0  ~/Desktop/안뇽/내이름은.txt
+|4,39,1,0,1546581076,"~/Desktop/안뇽/내이름은.txt"
+-'  1  0  ~/Desktop/안뇽/내이름은.txt
+|4,39,1,0,1546581076,"~/Desktop/안뇽/내이름은.txt"
+-'  1  0  ~/Desktop/안뇽/내이름은.txt
+|4,39,1,0,1546581076,"~/Desktop/안뇽/내이름은.txt"
+-'  1  0  ~/Desktop/안뇽/내이름은.txt
+|4,39,1,0,1546581076,"~/Desktop/안뇽/내이름은.txt"
+-'  1  0  ~/TIL/.git/COMMIT_EDITMSG
+|4,39,1,0,1545179999,"~/TIL/.git/COMMIT_EDITMSG"
+-'  1  0  ~/TIL/.git/COMMIT_EDITMSG
+|4,39,1,0,1545179999,"~/TIL/.git/COMMIT_EDITMSG"
+-'  1  0  ~/TIL/.git/COMMIT_EDITMSG
+|4,39,1,0,1545179999,"~/TIL/.git/COMMIT_EDITMSG"
+-'  1  0  ~/TIL/.git/COMMIT_EDITMSG
+|4,39,1,0,1545179999,"~/TIL/.git/COMMIT_EDITMSG"
+-'  1  0  ~/TIL/.git/COMMIT_EDITMSG
+|4,39,1,0,1545179999,"~/TIL/.git/COMMIT_EDITMSG"
+-'  1  0  ~/TIL/.git/COMMIT_EDITMSG
+|4,39,1,0,1545179999,"~/TIL/.git/COMMIT_EDITMSG"
+-'  1  0  ~/TIL/.git/COMMIT_EDITMSG
+|4,39,1,0,1545179999,"~/TIL/.git/COMMIT_EDITMSG"
+-'  1  0  ~/TIL/.git/COMMIT_EDITMSG
+|4,39,1,0,1545179999,"~/TIL/.git/COMMIT_EDITMSG"
+-'  1  0  ~/TIL/.git/COMMIT_EDITMSG
+|4,39,1,0,1545179999,"~/TIL/.git/COMMIT_EDITMSG"
+-'  1  0  ~/TIL/.git/COMMIT_EDITMSG
+|4,39,1,0,1545179999,"~/TIL/.git/COMMIT_EDITMSG"
+-'  1  0  ~/TIL/.git/COMMIT_EDITMSG
+|4,39,1,0,1545179999,"~/TIL/.git/COMMIT_EDITMSG"
+-'  1  0  ~/TIL/.git/COMMIT_EDITMSG
+|4,39,1,0,1545179999,"~/TIL/.git/COMMIT_EDITMSG"
+-'  1  0  ~/TIL/.git/COMMIT_EDITMSG
+|4,39,1,0,1545179999,"~/TIL/.git/COMMIT_EDITMSG"
+-'  1  0  ~/TIL/.git/COMMIT_EDITMSG
+|4,39,1,0,1545179999,"~/TIL/.git/COMMIT_EDITMSG"
+-'  1  0  ~/TIL/.git/COMMIT_EDITMSG
+|4,39,1,0,1545179999,"~/TIL/.git/COMMIT_EDITMSG"
+-'  1  0  ~/TIL/.git/COMMIT_EDITMSG
+|4,39,1,0,1545179999,"~/TIL/.git/COMMIT_EDITMSG"
+-'  1  0  ~/TIL/.git/COMMIT_EDITMSG
+|4,39,1,0,1545179999,"~/TIL/.git/COMMIT_EDITMSG"
+-'  1  0  ~/TIL/.git/COMMIT_EDITMSG
+|4,39,1,0,1545179999,"~/TIL/.git/COMMIT_EDITMSG"
+-'  1  0  ~/TIL/.git/COMMIT_EDITMSG
+|4,39,1,0,1545179999,"~/TIL/.git/COMMIT_EDITMSG"
+-'  1  0  ~/TIL/.git/COMMIT_EDITMSG
+|4,39,1,0,1545179999,"~/TIL/.git/COMMIT_EDITMSG"
+-'  1  0  ~/TIL/.git/COMMIT_EDITMSG
+|4,39,1,0,1545179999,"~/TIL/.git/COMMIT_EDITMSG"
+-'  1  0  ~/TIL/.git/COMMIT_EDITMSG
+|4,39,1,0,1545179999,"~/TIL/.git/COMMIT_EDITMSG"
+-'  1  0  ~/TIL/.git/COMMIT_EDITMSG
+|4,39,1,0,1545179999,"~/TIL/.git/COMMIT_EDITMSG"
+-'  1  0  ~/TIL/.git/COMMIT_EDITMSG
+|4,39,1,0,1545179999,"~/TIL/.git/COMMIT_EDITMSG"
+-'  1  0  ~/TIL/.git/COMMIT_EDITMSG
+|4,39,1,0,1545179999,"~/TIL/.git/COMMIT_EDITMSG"
+-'  1  0  ~/TIL/.git/COMMIT_EDITMSG
+|4,39,1,0,1545179999,"~/TIL/.git/COMMIT_EDITMSG"
+-'  1  0  ~/TIL/.git/COMMIT_EDITMSG
+|4,39,1,0,1545179999,"~/TIL/.git/COMMIT_EDITMSG"
+-'  1  0  ~/TIL/.git/COMMIT_EDITMSG
+|4,39,1,0,1545179999,"~/TIL/.git/COMMIT_EDITMSG"
+-'  1  0  ~/TIL/.git/COMMIT_EDITMSG
+|4,39,1,0,1545179999,"~/TIL/.git/COMMIT_EDITMSG"
+-'  1  0  ~/TIL/.git/COMMIT_EDITMSG
+|4,39,1,0,1545179999,"~/TIL/.git/COMMIT_EDITMSG"
+-'  1  0  ~/TIL/.git/COMMIT_EDITMSG
+|4,39,1,0,1545179999,"~/TIL/.git/COMMIT_EDITMSG"
+-'  1  0  ~/TIL/.git/COMMIT_EDITMSG
+|4,39,1,0,1545179999,"~/TIL/.git/COMMIT_EDITMSG"
+
+# 파일내의 마크 히스토리 (새것부터 오래된 순):
+
+> ~/.bashrc
+	*	1546906449	0
+	"	1	27
+	^	1	28
+	.	1	29
+	+	1	29
+
+> ~/.bashr
+	*	1546906440	0
+	"	1	0
+
+> ~/Desktop/안뇽/내이름은.txt
+	*	1546581300	0
+	"	2	25
+	^	2	28
+	.	2	25
+	+	1	51
+	+	3	0
+	+	2	28
+	+	2	25
